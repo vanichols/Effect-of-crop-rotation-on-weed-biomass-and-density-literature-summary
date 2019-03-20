@@ -1,0 +1,35 @@
+abbreviation,common name,differentiation between fall and spring planted?,Latin name
+A,alfalfa,N,Medicago sativa
+B,"barley, planted in the fall",Y,Hordeum vulgare
+Be,beet,N,Beta vulgaris
+Ca,carrot,N,Daucus carota sativus
+Ch,chickpea,N,Cicer arientinum
+Cp,cow pea,N,Vigna unguiculata
+Db,dry bean,N,Phaseolus vulgaris
+F,fallow,N,NA
+Fa,fava bean,N,Vicia faba
+Fl,flax,N,Linum usitatissium
+Flm,forage-legume mix,N,NA
+Fp,field pea,N,Pisum sativum
+Hb,hyacinth bean (lablab),N,Lablab purpureus
+L,lentil,N,Lens culinaris
+M,maize,N,Zea mays
+Mi,millet,N,Panicum miliaceum
+O,oats,N,Avena sativa
+On,onion,N,Allium cepa
+Po,potato,N,Solanum tuberosum
+R,"rape, planted in the fall",Y,Brassica napus
+Rcl,red clover,N,Trifolium pratense
+Ri,rice,N,Oryza sativa
+Ry,rye,N,Secale cereale
+sB,"barley, planted in the spring",Y,Hordeum vulgare
+Sb,soybean,N,Glycine max
+So,sorghum,N,Sorghum bicolor
+sR,"rape, planted in the spring",Y,Brassica napus
+sTr,"triticale, planted in the fall",Y,Triticosecale rimpaui
+Su,sunflower,N,Helianthus annuus
+sW,"wheat, planted in the spring",Y,Triticum aestivum
+Tr,"triticale, planted in the spring",Y,Triticosecale rimpaui
+To,tomato,N,Solanum lycopersicum
+Vb,velvet bean,N,Mucuna pruriens
+W,"wheat, planted in the fall",Y,Triticum aestivum
