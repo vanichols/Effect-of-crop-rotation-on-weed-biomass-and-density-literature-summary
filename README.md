@@ -14,7 +14,7 @@ Dataset updated March 2019
 ## Dataset provided by
 Virginia Nichols, David Weisberger, Matt Liebman
 
-Publication resulting from this dataset is under-review, and the citation will be added here upon acceptance. 
+A publication resulting from use of this dataset is under-review, and the citation will be added here upon acceptance. 
 
 ## Description
 
