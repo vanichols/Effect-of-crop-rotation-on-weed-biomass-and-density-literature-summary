@@ -9,7 +9,7 @@ This database is linked to Iowa State University's Open Rearch Data Repository !
 4. PRISMA diagram of literature search (pdf)
 
 Dataset created March 2019
-Dataset updated March 2019
+Dataset updated June 2019
 
 ## Dataset provided by
 Virginia Nichols, David Weisberger, Matt Liebman
@@ -18,9 +18,7 @@ A publication resulting from use of this dataset is under-review, and the citati
 
 ## Description
 
-The dataset consists of data extracted from a systematic search of peer-reviewed literature using ISI Web of Knowledge (WoS). Searches were conducted using the following Boolean strings:
-
-("crop rotation*" OR "crop sequence*" OR "multiple cropping*") AND (management* OR control*) AND ("weed biomass*" OR "weed density*" OR "weed seed bank*") NOT (orchard* OR vineyard* OR agroforestry*)
+The dataset consists of data extracted from a systematic search of peer-reviewed literature using ISI Web of Knowledge (WoS). Searches were conducted using the following Boolean string:
 
 ("crop rotation*" OR "crop sequence*" OR "multiple cropping*" OR “organic”) AND (management* OR control*) AND ("weed biomass*" OR "weed density*" OR "weed seed bank*") NOT (orchard* OR vineyard* OR agroforestry*)
 
